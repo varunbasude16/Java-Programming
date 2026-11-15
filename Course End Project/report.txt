@@ -1,0 +1,5 @@
+Rank	Roll	Name	M1	M2	M3	Total	Percentage
+1	72	varun	88	95	89	272	90.67
+2	74	vinay	76	87	98	261	87.0
+3	71	aviksit	88	89	79	256	85.33
+4	73	sharath	78	79	85	242	80.67
